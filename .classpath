@@ -2,5 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/analysis-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/api-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence_2.1.1.v201509150925.jar"/>
+	<classpathentry kind="lib" path="lib/jinq-asm-rebased-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/jinq-jpa-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.persistence.jpa.modelgen_2.6.3.v20160428-59c81c5.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.persistence.jpars_2.6.3.v20160428-59c81c5.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-9.4.1208.jre6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
